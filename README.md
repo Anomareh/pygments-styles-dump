@@ -1,6 +1,6 @@
 # pygments-styles-dump
 
-This is simply a dump of all the css styles included with [Pygments][Pygments].
+This is simply a dump of all the CSS styles included with [Pygments][Pygments].
 
 The following script was used to generate the contents of this repo.
 
